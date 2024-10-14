@@ -28,7 +28,7 @@ export default function RootLayout({
           "md:container md:mx-auto overflow-x-hidden"
         )}
       >
-        <GoogleAnalytics gaId="G-WTPMMSFEEP" />
+        <GoogleAnalytics gaId="G-XB5TK9R5BN" />
 
         <div className="w-full p-3">
           {children}
