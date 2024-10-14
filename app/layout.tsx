@@ -11,8 +11,9 @@ const gtAmericaRegular = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Adedoyin Emmanuel - Software Engineer",
-  description: "Software Engineer, CS",
+  title: "Codesharp - Vscode Extension",
+  description:
+    "Instantly create C# files—classes, interfaces, structs, and more with one click!",
 };
 
 export default function RootLayout({
