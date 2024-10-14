@@ -41,7 +41,6 @@ export default function Home() {
           <p className="text-lg text-gray-700 mb-6">
             Instantly create C# files—classes, interfaces, structs, and
             more—with just one click!
-           
           </p>
         </section>
 
@@ -69,7 +68,7 @@ export default function Home() {
           Star Repo on Github
         </ColoredLink>
 
-        <ColoredLink href="https://github.com/adedoyin-emmanuel/codesharp">
+        <ColoredLink href="https://marketplace.visualstudio.com/manage/publishers/adedoyinemmanuel/extensions/codesharp/hub?_a=acquisition">
           View on Vscode marketplace
         </ColoredLink>
       </main>
