@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import Navbar from "@/app/components/navbar";
 import Footer from "@/app/components/footer";
 import { cn } from "@/lib/utils";
 import { GoogleAnalytics } from "@next/third-parties/google";
@@ -30,7 +29,7 @@ export default function RootLayout({
         )}
       >
         <GoogleAnalytics gaId="G-WTPMMSFEEP" />
-        <Navbar />
+
         <div className="w-full p-3">
           {children}
 
